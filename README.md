@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ItsVeeNus
-- 👀 I’m interested in drawing.
-- 🌱 I’m currently learning Vue.js
+- 👀 I’m interested in drawing and reading books! I also write some on my own :)
+- 🌱 I’m currently learning Angular
 - 📫 Email address: wiktoria.pilch01@gmail.com
 
 <!---
