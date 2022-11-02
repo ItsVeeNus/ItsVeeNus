@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Wiktoria Pilch!
 - 👀 I’m interested in drawing and reading books! I also write some on my own :)
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning React and C#
 - 📫 Email address: wiktoria.pilch01@gmail.com
 
 <!---
