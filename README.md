@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Wiktoria Pilch!
-- 👀 I’m interested in drawing and reading books! I also write some on my own :)
-- 🌱 I’m currently learning React and C#
+- 👀 I’m interested in Astrophysics!
+- 🌱 I’m currently learning WPF, C# and .NET
 - 📫 Email address: wiktoria.pilch01@gmail.com
 
 <!---
